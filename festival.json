@@ -1,0 +1,452 @@
+{
+	"description": "Line-up Leesfestival",
+	"version": "1.0.0",
+	"locations": [
+		{
+			"ID": 100,
+			"name": "Centre Ceramique",
+			"address": {
+				"street": "Avenue Ceramique",
+				"number": "50",
+				"zipcode": "6221 KV",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.centreceramique.nl/"
+		},
+		{
+			"ID": 200,
+			"name": "Coffeelovers Avenue",
+			"address": {
+				"street": "Avenue Ceramique",
+				"number": "50",
+				"zipcode": "6221 KV",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.coffeelovers.nl/"
+		},
+		{
+			"ID": 300,
+			"name": "Bibliotheek Malpertuis",
+			"address": {
+				"street": "Grote Looiersstraat",
+				"number": "17",
+				"zipcode": "6211 JH",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 400,
+			"name": "Boekhandel Dominicanen",
+			"address": {
+				"street": "Dominicanerkerkstraat",
+				"number": "1",
+				"zipcode": "6211 CZ",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 500,
+			"name": "Boekhandel De Tribune",
+			"address": {
+				"street": "Kapoenstraat",
+				"number": "8-10",
+				"zipcode": "6211 KW",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 600,
+			"name": "Boekhandel Stille Librairie Antiquariaat",
+			"address": {
+				"street": "Muntstraat",
+				"number": "35",
+				"zipcode": "6211 EH",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 700,
+			"name": "Boekhandel Boeken en LP's",
+			"address": {
+				"street": "Wycker Grachtstraat",
+				"number": "13",
+				"zipcode": "6221 CT",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 800,
+			"name": "Drukkunstmuseum",
+			"address": {
+				"street": "Jodenstraat",
+				"number": "22",
+				"zipcode": "6211 ER",
+				"city": "Maastricht"
+			},
+			"URL": "https://drukkunstmuseum.wordpress.com/"
+		},
+		{
+			"ID": 900,
+			"name": "The Game Box",
+			"address": {
+				"street": "Wycker Brugstraat",
+				"number": "20",
+				"zipcode": "6221 EC",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.thegamebox.nl/locaties-contact/game-box-maastricht"
+		},
+		{
+			"ID": 1000,
+			"name": "Go!Gaming Maastricht",
+			"address": {
+				"street": "Sphinxcour",
+				"number": "1",
+				"zipcode": "6211 XZ",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.gogaming.gg/maastricht/"
+		},
+		{
+			"ID": 1100,
+			"name": "Lumiere Cinema",
+			"address": {
+				"street": "Bassin",
+				"number": "88",
+				"zipcode": "6211 AK",
+				"city": "Maastricht"
+			},
+			"URL": "https://lumiere.nl/"
+		},
+		{
+			"ID": 1200,
+			"name": "Meeting & Event Rooms",
+			"address": {
+				"street": "Sphinxcour",
+				"number": "9A",
+				"zipcode": "6211 XZ",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.thesocialhub.co/maastricht/meetings-and-events/"
+		},
+		{
+			"ID": 1300,
+			"name": "Landbouwbelang",
+			"address": {
+				"street": "Biesenwal",
+				"number": "3",
+				"zipcode": "6211 AD",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.landbouwbelang.org/"
+		},
+		{
+			"ID": 1400,
+			"name": "L1",
+			"address": {
+				"street": "Ambyerstraat Zuid",
+				"number": "77b",
+				"zipcode": "6226 AW",
+				"city": "Maastricht"
+			},
+			"URL": ""
+		},
+		{
+			"ID": 1500,
+			"name": "Muziekgieterij",
+			"address": {
+				"street": "Boschstraat",
+				"number": "5",
+				"zipcode": "6211 AS",
+				"city": "Maastricht"
+			},
+			"URL": "https://muziekgieterij.nl/"
+		},
+		{
+			"ID": 1600,
+			"name": "De Brandweerkantine",
+			"address": {
+				"street": "Capucijnenstraat",
+				"number": "21",
+				"zipcode": "6211 RN",
+				"city": "Maastricht"
+			},
+			"URL": "http://brandweerkantine.nl/"
+		},
+		{
+			"ID": 1700,
+			"name": "Rebelle Maastricht",
+			"address": {
+				"street": "Kesselskade",
+				"number": "43",
+				"zipcode": "6211 EN",
+				"city": "Maastricht"
+			},
+			"URL": "https://eventmanagementgroup.nl/rebelle-maastricht/"
+		},
+		{
+			"ID": 1800,
+			"name": "Tapijn Brasserie",
+			"address": {
+				"street": "Tapijnkazerne",
+				"number": "20",
+				"zipcode": "6211 ME",
+				"city": "Maastricht"
+			},
+			"URL": "https://www.tapijn.nl/"
+		}
+	],
+	"categories": [
+		{
+			"ID": 1,
+			"name": "Sociale activiteit"
+		},
+		{
+			"ID": 2,
+			"name": "Leeftijd: 12 - 16"
+		},
+		{
+			"ID": 3,
+			"name": "Workshop"
+		},
+		{
+			"ID": 4,
+			"name": "Schrijver"
+		},
+		{
+			"ID": 5,
+			"name": "Maatschappij"
+		},
+		{
+			"ID": 6,
+			"name": "Leesactiviteit"
+		},
+		{
+			"ID": 7,
+			"name": "Leeftijd: 12 - 14"
+		},
+		{
+			"ID": 8,
+			"name": "Biografie"
+		},
+		{
+			"ID": 9,
+			"name": "Avontuur"
+		},
+		{
+			"ID": 10,
+			"name": "Leeftijd: 14 - 18"
+		},
+		{
+			"ID": 11,
+			"name": "Voordracht"
+		},
+		{
+			"ID": 12,
+			"name": "Leeftijd: 12 - 18"
+		},
+		{
+			"ID": 13,
+			"name": "Game sessie"
+		},
+		{
+			"ID": 14,
+			"name": "Filmvoorstelling"
+		},
+		{
+			"ID": 15,
+			"name": "Poëzie"
+		},
+		{
+			"ID": 16,
+			"name": "Leeftijd: 13 - 16"
+		},
+		{
+			"ID": 17,
+			"name": "Leeftijd: 14 - 16"
+		},
+		{
+			"ID": 18,
+			"name": "Muziek"
+		},
+		{
+			"ID": 19,
+			"name": "Lezing"
+		}
+	],
+	"workshops":[
+		{
+			"name": "Openings-act van het Leesfestival Maastricht",
+			"category": [1,2],
+			"location": 100,
+			"datetime": [638146584000000000],
+			"description": "Een mystery-guest verzorgt de openings-act van het Leesfestival Maastricht. Benieuwd? Zorg dat je erbij bent!"
+		},
+		{
+			"name": "Workshop: 'Raadgedichten'",
+			"category": [3,4,5],
+			"location": 100,
+			"datetime": [638146656000000000,638147448000000000],
+			"description": "RAADGEDICHTEN: raad het ontbrekende woord. Deze workshop laat je kennis maken met de impact van slechts één enkel woord! Te gast is de jonge Schiavone Simson (24). Ze schrijft over thema's die haar erg aan het hart gaan, zoals onzeker zijn, depressie, liefdesverdriet, mentale gezondheid en identiteit. Schiavone heeft een buitengewoon boeiende blik op de wereld en neemt je mee in haar zoektocht om die te begrijpen. Haar ritmische en muzikale teksten zijn soms herkenbaar, dan weer nieuw, bij vlagen confronterend, maar altijd eerlijk. Deze workshop is voor iedereen die worstelt, botst of breekt en behoefte heeft aan herkenning en troost. Want Schiavone heeft een boodschap voor iedereen die een beetje stuk is."
+		},
+		{
+			"name": "Workshop: 'Boekenproeverij voor beginners. Krijg jij de smaak te pakken?!'",
+			"category": [2,3,6],
+			"location": 200,
+			"datetime": [638147448000000000,638148312000000000],
+			"description": "De Boekenproeverij is een gezellige bijeenkomst, waar, onder het genot van een kopje koffie of thee, je boekentips krijgt om 'de smaak van het lezen' te pakken te krijgen. Een deskundige jongere zal informatie over boektitels verstrekken over populaire titels in de categorie 'Young Adults' boeken, Netflix boeken en 'Gaphic Novels'. Het doel is om geïnspireerd naar huis te gaan (en wellicht met een stapel boeken die je anders nooit gekozen zou hebben)."
+		},
+		{
+			"name": "Vrije inloop: 'Date een boek'",
+			"category": [1,6,7],
+			"location": 300,
+			"datetime": [638146404000000000,638147268000000000,638148132000000000],
+			"description": "Kom langs voor je Blind Date (met een boek 😉 ). Op de afdeling 'Jongvolwassenen' vind je een stapel ingepakte boeken met een spannend leesprofiel klaarliggen. Vind jij de perfect match?!"
+		},
+		{
+			"name": "Signeersessie: Khalid Boudou signeert zijn spannende boek over gokverslaving 'Alles of Niets'",
+			"category": [2,6,8],
+			"location": 400,
+			"datetime": [638147448000000000],
+			"description": "Signeersessie van het boek ‘Alles of niets’. Het boek ‘Alles of Niets’ beschrijft het leven van de zeventienjarige Melle die in het geheim aan het gokken is. Een spannend avontuur waarin illegale casino’s en pokertoernooien worden bezocht en waarin Melle verwikkeld raakt in een gevaarlijk spel waarin niemand te vertrouwen is, en waarin niets is wat het lijkt. In de wereld van de gokverslaafden en criminelen beleeft Melle de spannendste en snelste dagen van zijn leven. Ontsnappen kan niet meer. Het is alles of niets."
+		},
+		{
+			"name": "Hackathon ‘Write your first short story.’",
+			"category": [3,9,10],
+			"location": 400,
+			"datetime": [638148348000000000],
+			"description": "Adriaan van Dis, een zeer gerenomeerd schrijver leidt de hackathon op zondag. Groepen worden samen aan het werk gezet om een ‘short story’ neer te zetten. Dus ben je een beginnend schrijver of gewoon benieuwd hoe een schrijver aan zijn of haar verhalen begint, schuif aan. Wie weet wordt jouw short story opgepikt en gaat het in druk."
+		},
+		{
+			"name": "Workshop: ‘Snel lezen’",
+			"category": [3,6,12],
+			"location": 500,
+			"datetime": [638147340000000000],
+			"description": "Hoe lees je snel een boek uit? In deze workshop leer je Snel lezen, met technieken die wél werken! Tijdens de workshop ga je een aantal snelleestips uitproberen op een boek dat jou niet alleen slimmer leert werken, maar ook nog eens een grijns op je gezicht tovert? Het boek ‘Elke Dag om 15.00 Uur Klaar’ laat je kennis maken met de beste snelleestips, die helpen stukken efficiënter te lezen!"
+		},
+		{
+			"name": "Schrijversbezoek: ‘Jonge Talenten aan het Woord’ Voordracht / voorlees sessie en aansluitend interview met Devorah Yazvin",
+			"category": [9,11,12],
+			"location": 600,
+			"datetime": [638147430000000000],
+			"description": "Devorah Yazvin (2003) hoort haar hele jeugd dat ze moet schrijven, haar moeder zei dat ze talent heeft. Ze maakte hier en daar wat kleine verhaaltjes, maar verder kwam ze niet. Tot ze de Nijmeegse hekeldichtenwedstrijd won met haar gedicht ‘Gepeperde Ui’. Op het moment is Devorah gefascineerd door de koelbloedige maffia en schrijft hier een bundel over."
+		},
+		{
+			"name": "Voorlees-sessie: ‘Voor als je stuk bent’ Voorlezer: Schiavone Simson ",
+			"category": [2,8,11],
+			"location": 700,
+			"datetime": [638146656000000000],
+			"description": "'Voor als je stuk bent' is een prachtige verhalen- en gedichtenbundel met ritmische en muzikale teksten. De collectie beslaat een verscheidenheid aan thema's, waaronder liefde, liefdesverdriet, pijn, onzekerheid, imperfectie, zelfontwikkeling, geboorte en identiteit. Schiavone is een jonge, getalenteerde auteur met een buitengewoon boeiende blik op de wereld. Haar woorden raken en ze weet emoties en ervaringen treffend weer te geven. Deze voorlees-sessie is voor iedereen die worstelt, botst of breekt en behoefte heeft aan herkenning en troost. Want Schiavone heeft een boodschap voor iedereen die een beetje stuk is."
+		},
+		{
+			"name": "Workshop: ‘Graphic Novels’",
+			"category": [3,7,9],
+			"location": 800,
+			"datetime": [638146620000000000,638147484000000000],
+			"description": "Duik in de wereld van de Graphic Novels aan de hand van de stripversie van het bekende verhaal van Anne Frank ‘Het Achterhuis’. Het unieke samengaan van originele tekst en levendige dialogen, in combinatie met de verbluffende tekenstijl, zal jong en oud onmiddellijk aanspreken en raken. Deze stripbewerking is ook bij uitstek geschikt als eerste kennismaking met het onvergetelijke verhaal van Anne Frank."
+		},
+		{
+			"name": "Game sessies: ‘Niki Lauda, de biografie’",
+			"category": [8,9,10,13],
+			"location": 900,
+			"datetime": [638146404000000000,638147268000000000],
+			"description": "Game Sessie: Stap in de auto van Niki Lauda en neem deel aan de beroemde Grand Prix op de Nürburgring van 1975. In 1975 werd Niki Lauda bij Ferrari voor het eerst wereldkampioen. Het jaar daarop was hij goed op weg om zijn titel te verdedigen toen hij op 1 augustus betrokken raakte bij een gruwelijke crash op de Nürburgring. Zwaargewond werd hij opgenomen in het ziekenhuis en er werd gevreesd voor zijn leven. Opmerkelijk genoeg verscheen hij zes weken later alweer aan de start, vastbesloten om te laten zien dat hij terug kon keren op zijn oude niveau. In de jaren die volgden reed hij voor verschillende teams en wist hij nog twee keer de wereldtitel te veroveren."
+		},
+		{
+			"name": "Game sessies: ‘Assassin’s Creed Valhalla’",
+			"category": [9,13,17],
+			"location": 1000,
+			"datetime": [638146404000000000,638147268000000000,638148132000000000],
+			"description": "Maak kennis met de game Assassin’s Creed Valhalla en de bijbehorende fictieve wereld, die samen de basis vormen voor een hoop nieuwe toffe verhalen. Deze ‘Verborgen Verhalen’ zijn gepubliceerd in de Ubisoft Special-app. In deze app kun je lezen de verhaallijnen van de game en hun hoofdpersonages. Tijdens het lezen van de Verborgen Verhalen kun je meer uitleg krijgen over historische termen of de gebeurtenissen uit het verhaal. De ‘Ubisoft Special-app’ is een interactief magazine dat iedereen gratis kan downloaden via iOS en Android."
+		},
+		{
+			"name": "Filmvoorstelling: Dead Poets Society",
+			"category": [8,10,14],
+			"location": 1100,
+			"datetime": [638146656000000000],
+			"description": "Enthousiasmerende film over hoe een leraar het verschil kan maken ;)"
+		},
+		{
+			"name": "Filmvoorstelling: The Hate U Give + aansluitend workshop rap, poëzie, korte verhalen of spoken word.",
+			"category": [3,14,15,16],
+			"location": 1100,
+			"datetime": [638147484000000000],
+			"description": "Boekverfilming van het boek  ‘The Hate U Give’ van Angie Thomas. Workshop: Vooroordelen, we hebben ze allemaal. Maar hoe gaan we hiermee om? In deze workshop worden jongeren aan het denken gezet over vooroordelen. Na het zien van de film woon je workshops bij van spoken word-artiesten. Je wordt aan het denken gezet over vooroordelen en leert eigen gevoelens en ervaringen op papier te zetten tijdens een workshop rap, poëzie, korte verhalen of spoken word."
+		},
+		{
+			"name": "Filmvoorstelling: Het Schnitzelparadijs",
+			"category": [2,8,14],
+			"location": 1100,
+			"datetime": [638148312000000000],
+			"description": "Boekverfilming van het boek ‘Het Schnitzelparadijs’ van Khalid Boudou Het verhaal over de jonge, verwarde Nordip die in de hel van restaurant De Blauwe Gier belandt, vol aangekoekte pannen en maffe personages, werd alom geprezen. De verfilming van Het Schnitzelparadijs was zowel nationaal (best bezochte Nederlandse film in 2005) als internationaal een groot succes. Nog één maal te zien tijdens het Leesfestival!!"
+		},
+		{
+			"name": "Workshop: Teamreading / teamwriting: ‘Hoe meer minds op één verhaal, hoe sterker en beter dit verhaal’.",
+			"category": [3,4,12],
+			"location": 1200,
+			"datetime": [638148384000000000],
+			"description": "Geïnspireerd geraakt door jonge, talentvolle schrijvers?  Bang voor een Writers-block? Ontdek de kracht van het woord en laat je inspireren door anderen. Samen schrijven we in het tijdsbestek van  deze gezamenlijke schrijfsessie een spannend kort verhaal. EXTRAATJE: Rond 18.00 uur bezorgt Domino’s een overheerlijke PIZZA!"
+		},
+		{
+			"name": "Workshop: ‘Start je eigen Boekenblog’",
+			"category": [3,10],
+			"location": 1300,
+			"datetime": [638147556000000000],
+			"description": "Hoe begin je zelf een boekenblog? In deze workshop leer je de kneepjes van het vak van Quirijne. Bijna net zo leuk als het lezen van boeken zelf: lezen óver boeken. Quirine vertelt waarom ze zo van een boekenblog houdt – en er zelf een bijhoudt. “Maar weinig mensen om me heen houden van lezen, dus kan ik niet vaak praten over de boeken waarin ik bezig ben. Daarom vind ik boekenblogs zo fijn: het voelt alsof je met een goede vriend of vriendin aan het kletsen bent over alles wat je hebt gelezen of wilt lezen. Want het leuke van boeken is dat iedereen de verhalen anders interpreteert. Daarom lees ik altijd graag wat recensies nadat ik een boek uit heb. Daarnaast zijn boekenblogs heel handig om nieuwe favorieten te ontdekken: andere lezers komen vaak weer andere boeken tegen dan jij. En het boek is dan al voor je ‘proefgelezen’, zo kun je makkelijker beoordelen of het ook iets voor jou is. Flowmagazine.nl. GOOD TO KNOW: Rond 18.00 uur bezorgt Babs Burrito overheerlijke BURRITOS! "
+		},
+		{
+			"name": "Workshop: ‘Vloggen voor je lijst’ door Jörgen Apperloo",
+			"category": [3,10],
+			"location": 1400,
+			"datetime": [638148312000000000],
+			"description": "Jörgen Apperloo startte in 2014 het YouTubekanaal Vlogboek dat inmiddels ruim 70 video’s bevat met voornamelijk besprekingen van boeken. In zijn workshop ‘VLOGGEN VOOR DE LIJST’ leert hij je hoe je zelf een Boekenvlog kunt maken. “Vlogboek is een YouTubekanaal met video’s over de Nederlandse literatuur. Korte filmpjes die het literatuuronderwijs ondersteunen door leerlingen te informeren én te prikkelen. In deze workshop leg ik uit wat Vlogboek is, met welk doel ik de video’s maak en tenslotte krijg je de kneepjes van het vak geleerd om zelf te gaan vloggen voor de lijst. Vlogboek. De huidige generatie kijkt geen tv meer maar houdt zich voornamelijk bezig met sociale media als WhatsApp, Snapchat, Instagram en YouTube, aldus social media trainer Kirsten Jassies. Een gemiddelde puber is geabonneerd op tientallen YouTubekanalen en kijkt dagelijks meerdere video’s."
+		},
+		{
+			"name": "Workshop: ‘Write your first song.’",
+			"category": [3,12,18],
+			"location": 1500,
+			"datetime": [638147664000000000],
+			"description": "Douwe Bob, een van de beste singer songwriters van Nederland neemt jullie mee in het schrijfproces. Gedurende deze workshop ontdek je hoe een goede tekst voor een nummer is opgebouwd en waar deze aan moet voldoen. Laat deze kans niet liggen en laat je door Douwe meenemen in zijn levensverhaal."
+		},
+		{
+			"name": "Lezing: ‘How to write for Social Media’",
+			"category": [5,12,19],
+			"location": 1500,
+			"datetime": [638148384000000000],
+			"description": "Enzo Knol en Mascha van Beautygloss nemen jullie mee in hun creatieve proces. Nergens is de druk zo hoog als bij de influencers van tegenwoordig die meerdere malen per week een creatief meesterstuk worden geacht neer te zetten. Hoe vertel je een verhaal en hoe kom je steeds met nieuwe boeiende content? In deze lezing hoor je het van de Nederlandse top."
+		},
+		{
+			"name": "Workshop:‘Boekenproeverij’ - smakelijk hapje voor leesliefhebbers",
+			"category": [1,2,3],
+			"location": 1600,
+			"datetime": [638146620000000000,638147484000000000,638148348000000000],
+			"description": "De Boekenproeverij is een gezellige bijeenkomst, waar, onder het genot van een kopje koffie of thee, gesproken wordt over allerlei boeken. Je kunt jouw boekentips delen, maar ook je nog-te-lezen-lijst aanvullen met tips van andere deelnemers. Niet alleen over de populaire titels die momenteel in de lijsten van kranten en tijdschriften staan, maar ook over boeken en auteurs die minder bekend zijn en die aandacht verdienen komen aan bod. Het doel is om geïnspireerd naar huis te gaan (en wellicht met een stapel boeken die je anders nooit gekozen zou hebben)."
+		},
+		{
+			"name": "VR-experience en lezing: Stap in de literaire VR-ervaring ‘Rozsypne’",
+			"category": [9,13,17],
+			"location": 1700,
+			"datetime": [638147520000000000],
+			"description": "‘Let’s make VR they said - it will be fun they said’. Tijdens het Leesfestival Maastricht kunnen bezoekers bij Rebelle Maastricht in de literaire VR-ervaring ‘Rozsypne’ stappen. In de bijbehorende lezing vertelt de Nederlands-Oekraïense schrijver Lisa Weeda over de ontstaansgeschiedenis van het verhaal, de worsteling om de juiste vorm te vinden en de voldoening die de uiteindelijke uitvoering met zich meebracht."
+		},
+		{
+			"name": "Lezing: ‘Kroegcollege over de taal van memes’ door Lisa Weeda",
+			"category": [5,10,19],
+			"location": 1800,
+			"datetime": [638147664000000000],
+			"description": "Lisa Weeda is een Nederlands-Oekraïense schrijver, literair programmamaker, scenarist, audiofan en virtual reality-regisseur. Ze werd uitgeroepen tot literair talent van het jaar 2022 in de Volkskrant. Tekst is altijd de basis van haar werk, maar vorm staat vrij. Oekraïne, het moederland van haar grootmoeder, staat vaak centraal in haar werk. Aleksandra is haar debuutroman."
+		},
+		{
+			"name": "Slot-act en After-party van het Leesfestival Maastricht",
+			"category": [1,12],
+			"location": 100,
+			"datetime": [638148528000000000],
+			"description": "Een mystery-guest verzorgt de slot-act van het Leesfestival Maastricht. Aansluitend After-party tot in de kleine uurtjes"
+		}
+	]
+}
