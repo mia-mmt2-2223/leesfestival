@@ -11,8 +11,7 @@ function preload(){
 }
 
 function setup(){
-    console.log(data); //controleren of de data correct is ingeladen
+    console.log(data.description); //controleren of de data correct is ingeladen
 }
 ``` 
 
-Succes
