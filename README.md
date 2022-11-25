@@ -9,6 +9,10 @@ let data;
 function preload(){
     data = loadJSON("https://raw.githubusercontent.com/mia-mmt2-2223/leesfestival/main/festival.json");
 }
+
+function setup(){
+    console.log(data);
+}
 ``` 
 
 Succes
