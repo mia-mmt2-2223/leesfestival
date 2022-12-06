@@ -15,3 +15,5 @@ function setup(){
 }
 ``` 
 
+We hebben zoveel mogelijk de gegevens van de Dropbox Paper overgenomen. Je ziet echter ook `durationMinutes` en `maxSeats` staan. Die fictieve gegevens hebben we zelf eraan toegevoegd zodat er wat meer te visualiseren is :)
+
