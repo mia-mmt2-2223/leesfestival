@@ -16,5 +16,6 @@ function setup(){
 ``` 
 
 We hebben zoveel mogelijk de gegevens van de Dropbox Paper overgenomen. Je ziet echter ook `durationMinutes`, `maxSeats` en `availableSeats` staan. Die fictieve gegevens hebben we zelf eraan toegevoegd zodat er wat meer te visualiseren is :)
+
 `datetime` staat voor de datum+tijdstip voor de aanvang van de activiteit. Zie de [lesstof in GitBook](https://cmd-viscom.gitbook.io/1-2-mmt2/lesprogramma/6-data/data-and-apis/de-data-uit-een-api-toepassen/een-datum-gebruiken-in-je-data) hoe je met deze grote getallen moet omgaan.
 
